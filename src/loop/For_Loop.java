@@ -11,6 +11,8 @@ public class For_Loop {
 		for(int i=0; i<5; i++)
 		{
 			System.out.println(student[i]);
+			
+			System.out.println("**********");
 		}
 
 	}
